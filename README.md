@@ -50,5 +50,4 @@ The analysis addresses key questions:
 
 ---
 
-## 🚀 Next Steps
 
