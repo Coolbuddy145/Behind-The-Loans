@@ -6,15 +6,15 @@ This project explores a financial loans dataset to understand borrower behavior,
 
 The analysis addresses key questions:
 
-What are the main purposes for which people take loans?
+* What are the main purposes for which people take loans?
 
-How do employment length, home ownership, or DTI affect lending?
+* How do employment length, home ownership, or DTI affect lending?
 
-Do loan grades reflect risk, and how do they relate to defaults and interest rates?
+* Do loan grades reflect risk, and how do they relate to defaults and interest rates?
 
-Which states and borrower profiles dominate loan demand?
+* Which states and borrower profiles dominate loan demand?
 
-How has loan demand and disbursement trended over time?
+* How has loan demand and disbursement trended over time?
 
 ---
 
