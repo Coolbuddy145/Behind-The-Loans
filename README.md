@@ -2,19 +2,19 @@
 
 ## 🔎 Project Overview
 
-This project takes a deep dive into a financial loans dataset with the goal of understanding how people borrow, how the bank lends, and what patterns reveal about risk and performance. Instead of building predictive models, the focus here is on exploratory data analysis (EDA) — carefully cleaning the data, exploring it from multiple angles, and pulling out insights that are both practical and meaningful for the business.
+This project explores a financial loans dataset to understand borrower behavior, lending patterns, and risk factors. The focus is on exploratory data analysis (EDA) — cleaning the data, analyzing it across different dimensions, and extracting insights that are meaningful for business decisions.
 
-Through the analysis, I looked at questions such as:
+The analysis addresses key questions:
 
-What purposes do most people take loans for?
+What are the main purposes for which people take loans?
 
-How do factors like employment length, home ownership, or DTI influence lending decisions?
+How do employment length, home ownership, or DTI affect lending?
 
-Do loan grades really capture risk, and how do they tie to defaults and interest rates?
+Do loan grades reflect risk, and how do they relate to defaults and interest rates?
 
-Which states or borrower profiles account for the biggest share of loans?
+Which states and borrower profiles dominate loan demand?
 
-How is demand trending over time?
+How has loan demand and disbursement trended over time?
 
 ---
 
