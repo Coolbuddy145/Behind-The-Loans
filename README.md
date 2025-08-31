@@ -48,6 +48,8 @@ The analysis addresses key questions:
 * Highlights **profitability trend** with rising loan demand.
 * Suggests tighter monitoring of **Grades F & G**.
 
+ak;jdfviknvbonu
+
 ---
 
 
