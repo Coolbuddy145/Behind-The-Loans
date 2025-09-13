@@ -52,5 +52,4 @@ The analysis addresses key questions:
 
 ---
 
-tjhn
 
