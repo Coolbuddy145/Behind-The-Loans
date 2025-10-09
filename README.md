@@ -1,5 +1,5 @@
 # 📊 Financial Loan EDA & Insights
-
+sdvsdv
 ## 🔎 Project Overview
 
 This project explores a financial loans dataset to understand borrower behavior, lending patterns, and risk factors. The focus is on exploratory data analysis (EDA) — cleaning the data, analyzing it across different dimensions, and extracting insights that are meaningful for business decisions.
